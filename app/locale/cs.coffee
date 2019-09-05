@@ -2916,10 +2916,10 @@ module.exports = nativeDescription: "čeština", englishDescription: "Czech", tr
 
 #  parent_modal:
 #    refer_teacher: "Refer Teacher"
-#    name: "Your Name"
-#    parent_email: "Your Email"
-#    teacher_email: "Teacher's Email"
-#    message: "Message"
+#    name: "Jméno"
+#    parent_email: "Email rodiče"
+#    teacher_email: "Email učitele"
+#    message: "Zpráva"
 #    custom_message: "I just found CodeCombat and thought it'd be a great program for your classroom! It's a computer science learning platform with standards-aligned curriculum.\n\nComputer literacy is so important and I think this would be a great way to get students engaged in learning to code."
 #    send: "Send Email"
 
